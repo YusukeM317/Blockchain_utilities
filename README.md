@@ -86,5 +86,4 @@ Test the code by running:
 $ npm test
 ```
 
-## Licence
-Apache-2.0 OR MIT
+
